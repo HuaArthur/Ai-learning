@@ -1,27 +1,31 @@
 # Learning_Ai
-## Overview
 
-This is a repository tha records my journey to study machine learning.
+# Overview
 
-Recent years, development in Ai has rocketed, and the public is amazed by what it can achieve now. I've always been deeply fascinated by the mechanism of computers and how simple circuits can "think" through programming and training. So, I embark on a journey to explore the world of AI
+This is a repository that records my journey into studying machine learning.
 
-In order to have a firm foundation of machine learning, there are generally three topics that need to be learned.They are the foundation in Maths, Python's coding skills, and finally the principle of machin learning. Luckily, I've already been equipped with the required skills in Maths ,such as linear algebra and calculus, so it shouldn't be a problem.
+In recent years, development in AI has skyrocketed, and the public is awed by what it can achieve. I've always been deeply fascinated by the mechanisms of computers and how simple circuits can seemingly "think" through programming and training. Therefore, I embark on a journey to explore the world of AI.
 
-My schedule is to learning the basic Python libraries required for machine learning in just a couple of days, and then put all my efforts into enhancing my machine learning skills.
+To establish a firm foundation in machine learning, there are generally three key topics to learn: mathematics fundamentals, Python coding skills, and finally, the principles of machine learning. Luckily, I'm already equipped with the necessary math skills, such as linear algebra and calculus, so that shouldn't be a problem.
 
-## Python library
+My plan is to learn the basic Python libraries required for machine learning in just a couple of days and then devote all my efforts to enhancing my machine learning skills.
 
-There are three libraries I need to learn(libraries like pytorch isn't included, they are included in the next section)
+# Python Libraries
 
-  * Numpy: I would say this is the most useful and fundamental library used in machine learning, as it greatly improves the efficiency of working with arrays and metrices, which is commonly used in machine learning
+There are three core libraries I need to learn (libraries like PyTorch aren't included; they'll be covered in the next section).
 
-  * Panda: This library allows you to process data faster and more convenient. Data collection is a big part in machine learning.
+* NumPy: This is arguably the most useful and fundamental library used in machine learning. It significantly improves the efficiency of working with arrays and matrices, which are commonly used in machine learning.
 
-  * Matplotlib: With this library, you can draw wonderful diagrams to visualize your received data or your training result. Visualization is a big deal in machine learning projects.
+* Pandas: This library allows you to process data faster and more conveniently. Data collection is a big part of machine learning.
 
-## Machine Learning Basics
+* Matplotlib: With this library, you can create compelling visualizations to represent your data or training results. Visualization is crucial for machine learning projects.
 
-# Supervised Learning
+# Machine Learning Basics
 
-After I 've learned the basics of these libraries above, I move on to search for good resorces in machine learning on the internet and landed on the decision to take a course by Adrew Ng on Coursera, named "Machine Learning Specializaion". It contains 3 individual courses, and I pay most of my attention on the first one, which is about supervised learning, specifically regression and classification.
+* Supervised Learning
 
+After learning the basics of these libraries, I explored online resources for machine learning and decided to take a course by Andrew Ng on Coursera, named "Machine Learning Specialization." It contains three individual courses, and I focused most of my attention on the first one, which covers supervised learning, specifically regression and classification.
+
+* Deep Learning
+
+Deep learning is essentially a subdomain of supervised learning, but I list it separately because it's both the most challenging and the most intriguing part I've encountered. Initially, I decided to bypass the core concepts and jump straight into using PyTorch for deep learning. However, without a foundation in the underlying principles, I couldn't effectively utilize those libraries. As a result, I enrolled in a series of four courses on Coursera, named "Deep Learning Specialization."
