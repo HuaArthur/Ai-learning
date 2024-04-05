@@ -1,6 +1,6 @@
 # Learning_Ai
 
-# Overview
+## Overview
 
 This is a repository that records my journey into studying machine learning.
 
@@ -10,7 +10,7 @@ To establish a firm foundation in machine learning, there are generally three ke
 
 My plan is to learn the basic Python libraries required for machine learning in just a couple of days and then devote all my efforts to enhancing my machine learning skills.
 
-# Python Libraries
+## Python Libraries
 
 There are three core libraries I need to learn (libraries like PyTorch aren't included; they'll be covered in the next section).
 
@@ -22,13 +22,13 @@ There are three core libraries I need to learn (libraries like PyTorch aren't in
 
 * update--opencv:a powerful tool to process images and videos.
 
-# Machine Learning Basics
+## Machine Learning Basics
 
 
   After learning the basics of these libraries, I explored online resources for machine learning and decided   to take a course by Andrew Ng on Coursera, named "Machine Learning Specialization." It contains three   
   individual courses, and I focused most of my attention on the first one, which covers supervised learning,   specifically regression and classification.
 
-# Deep Learning
+## Deep Learning
 
 Deep learning is essentially a subdomain of supervised learning, but I list it separately because it's both the most challenging and the most intriguing part I've encountered. Initially, I decided to bypass the core concepts and jump straight into using PyTorch for deep learning. However, without a foundation in the underlying principles, I couldn't effectively utilize those libraries. As a result, I enrolled in a series of four courses on Coursera, named "Deep Learning Specialization."
 
