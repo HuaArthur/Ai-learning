@@ -20,12 +20,20 @@ There are three core libraries I need to learn (libraries like PyTorch aren't in
 
 * Matplotlib: With this library, you can create compelling visualizations to represent your data or training results. Visualization is crucial for machine learning projects.
 
+* update--opencv:a powerful tool to process images and videos.
+
 # Machine Learning Basics
 
-* Supervised Learning
 
-After learning the basics of these libraries, I explored online resources for machine learning and decided to take a course by Andrew Ng on Coursera, named "Machine Learning Specialization." It contains three individual courses, and I focused most of my attention on the first one, which covers supervised learning, specifically regression and classification.
+  After learning the basics of these libraries, I explored online resources for machine learning and decided   to take a course by Andrew Ng on Coursera, named "Machine Learning Specialization." It contains three   
+  individual courses, and I focused most of my attention on the first one, which covers supervised learning,   specifically regression and classification.
 
-* Deep Learning
+# Deep Learning
 
 Deep learning is essentially a subdomain of supervised learning, but I list it separately because it's both the most challenging and the most intriguing part I've encountered. Initially, I decided to bypass the core concepts and jump straight into using PyTorch for deep learning. However, without a foundation in the underlying principles, I couldn't effectively utilize those libraries. As a result, I enrolled in a series of four courses on Coursera, named "Deep Learning Specialization."
+
+* Project1--Cat Recognition
+
+  After completing my first course, I develop a project to test my deep learning skills, and more     
+  importantly, my data collection and processing skills. I name the project "Cat Recognition". During my 
+  project, I proceed to learn another labrary--opencv.
